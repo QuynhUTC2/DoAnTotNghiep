@@ -1,0 +1,77 @@
+[INFO ] 22-06-2022 22:22:49 [main] log - Start testing Maven
+[INFO ] 22-06-2022 22:22:49 [main] log - C08_Verify_ClickOn_BtnNew test is starting...
+[INFO ] 22-06-2022 22:23:00 [main] log - C08_Verify_ClickOn_BtnNew test is passed.
+[INFO ] 22-06-2022 22:23:04 [main] log - End testing Maven
+[INFO ] 22-06-2022 22:25:14 [main] log - Start testing Maven
+[INFO ] 22-06-2022 22:25:14 [main] log - C05_Verify_ClickOn_BtnSignIn test is starting...
+[ERROR] 22-06-2022 22:25:23 [main] log - C05_Verify_ClickOn_BtnSignIn test is failed.
+[INFO ] 22-06-2022 22:25:27 [main] log - End testing Maven
+[INFO ] 22-06-2022 22:28:37 [main] log - Start testing Maven
+[INFO ] 22-06-2022 22:28:37 [main] log - C06_Verify_ClickOn_BtnSignUp test is starting...
+[ERROR] 22-06-2022 22:28:45 [main] log - C06_Verify_ClickOn_BtnSignUp test is failed.
+[INFO ] 22-06-2022 22:28:49 [main] log - End testing Maven
+[INFO ] 22-06-2022 22:30:05 [main] log - Start testing Maven
+[INFO ] 22-06-2022 22:30:05 [main] log - C08_Verify_ClickOn_BtnNew test is starting...
+[INFO ] 22-06-2022 22:30:12 [main] log - C08_Verify_ClickOn_BtnNew test is passed.
+[INFO ] 22-06-2022 22:30:16 [main] log - End testing Maven
+[INFO ] 22-06-2022 23:48:51 [main] log - Start testing Maven
+[INFO ] 22-06-2022 23:48:52 [main] log - C07_Verify_ClickOn_BtnNoti test is starting...
+[INFO ] 22-06-2022 23:49:01 [main] log - C07_Verify_ClickOn_BtnNoti test is passed.
+[INFO ] 22-06-2022 23:49:01 [main] log - C08_Verify_ClickOn_BtnNew test is starting...
+[INFO ] 22-06-2022 23:49:08 [main] log - C08_Verify_ClickOn_BtnNew test is passed.
+[INFO ] 22-06-2022 23:49:08 [main] log - C09_Verify_ClickOn_BtnTask test is starting...
+[INFO ] 22-06-2022 23:49:16 [main] log - C09_Verify_ClickOn_BtnTask test is passed.
+[INFO ] 22-06-2022 23:49:16 [main] log - C10_Verify_ClickOn_BtnHelp test is starting...
+[ERROR] 22-06-2022 23:49:25 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
+[INFO ] 22-06-2022 23:49:30 [main] log - End testing Maven
+[INFO ] 23-06-2022 00:12:45 [main] log - Start testing Maven
+[INFO ] 23-06-2022 00:12:45 [main] log - C07_Verify_ClickOn_BtnNoti test is starting...
+[INFO ] 23-06-2022 00:12:54 [main] log - C07_Verify_ClickOn_BtnNoti test is passed.
+[INFO ] 23-06-2022 00:12:54 [main] log - C08_Verify_ClickOn_BtnNew test is starting...
+[INFO ] 23-06-2022 00:13:02 [main] log - C08_Verify_ClickOn_BtnNew test is passed.
+[INFO ] 23-06-2022 00:13:02 [main] log - C09_Verify_ClickOn_BtnTask test is starting...
+[INFO ] 23-06-2022 00:13:11 [main] log - C09_Verify_ClickOn_BtnTask test is passed.
+[INFO ] 23-06-2022 00:13:11 [main] log - C10_Verify_ClickOn_BtnHelp test is starting...
+[ERROR] 23-06-2022 00:13:21 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
+[INFO ] 23-06-2022 00:13:27 [main] log - End testing Maven
+[INFO ] 23-06-2022 05:03:57 [main] log - Start testing Maven
+[INFO ] 23-06-2022 05:03:57 [main] log - C07_Verify_ClickOn_BtnNoti test is starting...
+[ERROR] 23-06-2022 05:04:01 [main] log - C07_Verify_ClickOn_BtnNoti test is failed.
+[INFO ] 23-06-2022 05:04:06 [main] log - End testing Maven
+[INFO ] 23-06-2022 05:05:00 [main] log - Start testing Maven
+[INFO ] 23-06-2022 05:05:00 [main] log - C09_Verify_ClickOn_BtnTask test is starting...
+[INFO ] 23-06-2022 05:05:09 [main] log - C09_Verify_ClickOn_BtnTask test is passed.
+[INFO ] 23-06-2022 05:05:13 [main] log - End testing Maven
+[INFO ] 23-06-2022 05:05:56 [main] log - Start testing Maven
+[INFO ] 23-06-2022 05:05:56 [main] log - C10_Verify_ClickOn_BtnHelp test is starting...
+[ERROR] 23-06-2022 05:06:04 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
+[INFO ] 23-06-2022 05:06:09 [main] log - End testing Maven
+[INFO ] 23-06-2022 05:06:44 [main] log - Start testing Maven
+[INFO ] 23-06-2022 05:06:44 [main] log - C10_Verify_ClickOn_BtnHelp test is starting...
+[ERROR] 23-06-2022 05:06:53 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
+[INFO ] 23-06-2022 05:07:00 [main] log - End testing Maven
+[INFO ] 23-06-2022 05:07:24 [main] log - Start testing Maven
+[INFO ] 23-06-2022 05:07:24 [main] log - C10_Verify_ClickOn_BtnHelp test is starting...
+[ERROR] 23-06-2022 05:07:37 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
+[INFO ] 23-06-2022 05:07:41 [main] log - End testing Maven
+[INFO ] 23-06-2022 05:12:21 [main] log - Start testing Maven
+[INFO ] 23-06-2022 05:12:21 [main] log - C09_Verify_ClickOn_BtnTask test is starting...
+[INFO ] 23-06-2022 05:12:30 [main] log - C09_Verify_ClickOn_BtnTask test is passed.
+[INFO ] 23-06-2022 05:12:34 [main] log - End testing Maven
+[INFO ] 23-06-2022 05:13:05 [main] log - Start testing Maven
+[INFO ] 23-06-2022 05:13:06 [main] log - C01_Verify_TitlePage test is starting...
+[ERROR] 23-06-2022 05:13:13 [main] log - C01_Verify_TitlePage test is failed.
+[INFO ] 23-06-2022 05:13:14 [main] log - End testing Maven
+[INFO ] 23-06-2022 05:16:24 [main] log - Start testing Maven
+[INFO ] 23-06-2022 05:16:24 [main] log - C04_Verify_ClickOn_ForBuyer test is starting...
+[ERROR] 23-06-2022 05:16:26 [main] log - C04_Verify_ClickOn_ForBuyer test is failed.
+[ERROR] 23-06-2022 05:16:26 [main] log - C04_Verify_ClickOn_ForBuyer test is failed.
+[INFO ] 23-06-2022 05:16:26 [main] log - End testing Maven
+[INFO ] 23-06-2022 05:19:19 [main] log - Start testing Maven
+[INFO ] 23-06-2022 05:19:19 [main] log - C04_Verify_ClickOn_ForBuyer test is starting...
+[ERROR] 23-06-2022 05:19:26 [main] log - C04_Verify_ClickOn_ForBuyer test is failed.
+[INFO ] 23-06-2022 05:19:27 [main] log - End testing Maven
+[INFO ] 23-06-2022 06:56:19 [main] log - Start testing Maven
+[INFO ] 23-06-2022 06:56:20 [main] log - C10_Verify_ClickOn_BtnHelp test is starting...
+[ERROR] 23-06-2022 06:56:35 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
+[INFO ] 23-06-2022 06:56:39 [main] log - End testing Maven

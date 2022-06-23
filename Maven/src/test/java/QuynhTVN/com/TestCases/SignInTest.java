@@ -4,6 +4,7 @@ import QuynhTVN.com.Base.ValidateHelper;
 import QuynhTVN.com.Pages.SignInPage;
 import QuynhTVN.common.helper.ExcelHelper;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import jdk.jfr.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -24,8 +25,9 @@ public class SignInTest{
         excel = new ExcelHelper();
     }
 
-    @Test
+    @Test(description = " Verify behavior in case sign in successfully")
     public void C01_SignInLagre() throws Exception {
+        driver.quit();
 
         //Set up duong dan cho file excel
         excel.setExcelFile("src\\test\\Resources\\DataTest.xlsx","Sheet1");
@@ -40,9 +42,8 @@ public class SignInTest{
             driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
             // Open maximum screen
             driver.manage().window().maximize();
-
             driver.get("https://qc.atalink.com.vn/sign-in");
-
+            driver.findElement(By.linkText("Đăng nhập")).click();
             //Read data from file excel
             signInPage.SignIn(excel.getCellData("UserName", i), excel.getCellData("PassWord", i));
 
@@ -56,7 +57,7 @@ public class SignInTest{
 
             Thread.sleep(2000);
 
-            driver.quit();
+
         }
     }
 }

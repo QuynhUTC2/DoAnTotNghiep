@@ -101,7 +101,7 @@ public class MKP_Homepage extends Init_Browser{
 
         SetUp_MainMKP();
         driver.findElement(By.linkText("Dành cho người mua")).click();
-
+        Assert.assertEquals("Dành cho người mua", "ATALINK - Đăng nhập");
         TearDown();
     }
 

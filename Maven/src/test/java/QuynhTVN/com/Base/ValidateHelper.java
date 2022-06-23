@@ -21,7 +21,6 @@ public class ValidateHelper {
     }
 
     public void SetText(By element, String Text){
-
         //Sendkey cho gia tri duoc truyen vao
         wait.until(ExpectedConditions.elementToBeClickable(element));
         driver.findElement(element).clear();
@@ -29,8 +28,6 @@ public class ValidateHelper {
     }
 
     public void ClickElement(By element){
-
-        //Sendkey cho gia tri duoc truyen vao
         wait.until(ExpectedConditions.elementToBeClickable(element));
         driver.findElement(element).click();
     }
