@@ -75,3 +75,20 @@
 [INFO ] 23-06-2022 06:56:20 [main] log - C10_Verify_ClickOn_BtnHelp test is starting...
 [ERROR] 23-06-2022 06:56:35 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
 [INFO ] 23-06-2022 06:56:39 [main] log - End testing Maven
+[INFO ] 28-06-2022 23:26:03 [main] log - Start testing Maven
+[INFO ] 28-06-2022 23:26:03 [main] log - C10_Verify_ClickOn_BtnHelp test is starting...
+[ERROR] 28-06-2022 23:26:23 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
+[ERROR] 28-06-2022 23:26:23 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
+[INFO ] 28-06-2022 23:26:27 [main] log - End testing Maven
+[INFO ] 28-06-2022 23:30:07 [main] log - Start testing Maven
+[INFO ] 28-06-2022 23:30:08 [main] log - C10_Verify_ClickOn_BtnHelp test is starting...
+[ERROR] 28-06-2022 23:30:19 [main] log - C10_Verify_ClickOn_BtnHelp test is failed.
+[INFO ] 28-06-2022 23:30:24 [main] log - End testing Maven
+[INFO ] 28-06-2022 23:52:37 [main] log - Start testing Maven
+[INFO ] 28-06-2022 23:52:38 [main] log - C09_Verify_ClickOn_Banner3 test is starting...
+[ERROR] 28-06-2022 23:52:43 [main] log - C09_Verify_ClickOn_Banner3 test is failed.
+[INFO ] 28-06-2022 23:52:44 [main] log - End testing Maven
+[INFO ] 28-06-2022 23:54:17 [main] log - Start testing Maven
+[INFO ] 28-06-2022 23:54:17 [main] log - C09_Verify_ClickOn_Banner3 test is starting...
+[INFO ] 28-06-2022 23:54:28 [main] log - C09_Verify_ClickOn_Banner3 test is passed.
+[INFO ] 28-06-2022 23:54:28 [main] log - End testing Maven

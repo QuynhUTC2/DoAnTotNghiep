@@ -197,7 +197,6 @@ public class main_menu_bar extends Init_Browser{
         driver.findElement(By.xpath("//section[1]/div[1]/div[2]/div[1]/div[2]/div[2]/a[2]/div[1]/div[1]")).click();
         Thread.sleep(2000);
         String title = driver.getTitle();
-        Thread.sleep(5000);
         Assert.assertEquals(title, "ATALINK Help");
         Thread.sleep(5000);
     }

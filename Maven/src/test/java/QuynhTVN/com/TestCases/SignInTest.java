@@ -1,5 +1,6 @@
 package QuynhTVN.com.TestCases;
 
+import QuynhTVN.com.Base.ReportListener;
 import QuynhTVN.com.Base.ValidateHelper;
 import QuynhTVN.com.Pages.SignInPage;
 import QuynhTVN.common.helper.ExcelHelper;
@@ -9,10 +10,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
-
+@Listeners(ReportListener.class)
 public class SignInTest{
     private WebDriver driver;
     private ValidateHelper validateHelper;

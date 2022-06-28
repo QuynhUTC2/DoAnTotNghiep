@@ -32,7 +32,7 @@ public class SignUpTest {
         //Set up duong dan cho file excel
         excel.setExcelFile("src\\test\\Resources\\Data_SignUp.xlsx","Sheet1");
 
-        for (int i = 1; i <= 11; i++) {
+        for (int i = 1; i <= 3 ; i++) {
             WebDriverManager.chromedriver().setup();
             driver = new ChromeDriver();
 
